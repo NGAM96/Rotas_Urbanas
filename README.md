@@ -109,3 +109,11 @@ O relatório técnico está disponível em `docs/Relatorio_Tecnico_Rotas_Urbanas
 - **Curso:** Análise e Desenvolvimento de Sistemas
 - **Disciplina:** Estrutura de Dados
 - **Projeto:** Rotas Urbanas
+
+## Histórico de desenvolvimento
+
+O projeto foi desenvolvido de forma incremental, com utilização do Git para controle de versão e acompanhamento das alterações realizadas durante sua implementação.
+
+O histórico de commits está disponível no repositório:
+
+[Consultar histórico de commits] (https://github.com/NGAM96/Rotas_Urbanas/commits/main)
